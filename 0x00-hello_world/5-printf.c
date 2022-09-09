@@ -8,9 +8,13 @@
 
  *
 
- * Return: Always 0 (Success)
+ * return - Always 0 (Success)
 
  */
+
+
+
+/* start main */
 
 int main(void)
 
